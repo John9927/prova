@@ -1,0 +1,8 @@
+<svg id="Icon_feather-layout" data-name="Icon feather-layout" xmlns="http://www.w3.org/2000/svg" width="22.5" height="22.5" viewBox="0 0 22.5 22.5">
+  <g id="Path_287" data-name="Path 287" transform="translate(-4.5 -4.5)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7,4.5H24.5A2.5,2.5,0,0,1,27,7V24.5A2.5,2.5,0,0,1,24.5,27H7a2.5,2.5,0,0,1-2.5-2.5V7A2.5,2.5,0,0,1,7,4.5Z" stroke="none"/>
+    <path d="M 7 6.5 C 6.724300384521484 6.5 6.5 6.724300384521484 6.5 7 L 6.5 24.5 C 6.5 24.77569961547852 6.724300384521484 25 7 25 L 24.5 25 C 24.77569961547852 25 25 24.77569961547852 25 24.5 L 25 7 C 25 6.724300384521484 24.77569961547852 6.5 24.5 6.5 L 7 6.5 M 7 4.5 L 24.5 4.5 C 25.8807201385498 4.5 27 5.619289398193359 27 7 L 27 24.5 C 27 25.8807201385498 25.8807201385498 27 24.5 27 L 7 27 C 5.619289398193359 27 4.5 25.8807201385498 4.5 24.5 L 4.5 7 C 4.5 5.619289398193359 5.619289398193359 4.5 7 4.5 Z" stroke="none" fill="#2d3142"/>
+  </g>
+  <path id="Path_288" data-name="Path 288" d="M4.5,13.5H23.491" transform="translate(-2.769 -6)" fill="none" stroke="#2d3142" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="Path_289" data-name="Path 289" d="M13.5,32.417V13.5" transform="translate(-6 -11.769)" fill="none" stroke="#2d3142" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>

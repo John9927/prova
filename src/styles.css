@@ -1,1 +1,52 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+
+    /* Colors: */
+    --unnamed-color-ffffff: #FFFFFF;
+    --unnamed-color-dee1e7: #DEE1E7;
+    --state-color-4392f1: #4392F1;
+    --unnamed-color-2d3142: #2D3142;
+    --unnamed-color-999da3: #999DA3;
+    --unnamed-color-000000: #000000;
+    --unnamed-color-d2d7df: #D2D7DF;
+    --unnamed-color-f2f4f6: #F2F4F6;
+    --unnamed-color-bfc4cb: #BFC4CB;
+    --unnamed-color-ff903e: #FF903E;
+    --unnamed-color-3eb5ff: #3EB5FF;
+    --d-onenext-09bf91: #09BF91;
+    --d-oneiot-e91e63: #E91E63;
+    --state-color-f04949: #F04949;
+    --state-color-20a39e: #20A39E;
+    --state-color-fead60: #FEAD60;
+    
+    /* Font/text values */
+    --unnamed-font-family-source-sans-pro: Source Sans Pro;
+    --unnamed-font-style-semibold: SemiBold;
+    --unnamed-font-style-regular: Regular;
+    --unnamed-font-style-bold: Bold;
+    --unnamed-font-size-10: 10px;
+    --unnamed-font-size-12: 12px;
+    --unnamed-font-size-17: 17px;
+    --unnamed-font-size-18: 18px;
+    --unnamed-font-size-19: 19px;
+    --unnamed-font-size-20: 20px;
+    --unnamed-font-size-23: 23px;
+    --unnamed-font-size-24: 24px;
+    --unnamed-font-size-28: 28px;
+    --unnamed-font-size-32: 32px;
+    --unnamed-font-size-33: 33px;
+    --unnamed-font-size-40: 40px;
+    --unnamed-character-spacing-0: 0px;
+    --unnamed-line-spacing-13: 13px;
+    --unnamed-line-spacing-15: 15px;
+    --unnamed-line-spacing-18: 18px;
+    --unnamed-line-spacing-19: 19px;
+    --unnamed-line-spacing-22: 22px;
+    --unnamed-line-spacing-23: 23px;
+    --unnamed-line-spacing-24: 24px;
+    --unnamed-line-spacing-30: 30px;
+    --unnamed-line-spacing-36: 36px;
+    --unnamed-decoration-underline: underline;
+    } 
+html, body { height: 100%; background-color: #F2F4F6 !important; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
